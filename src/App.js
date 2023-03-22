@@ -1,9 +1,10 @@
 import "./App.css";
+import pic from "../src/IMG_0112.png";
 
 function App() {
   const title = "Christopher Purnell";
   const link = "https://github.com/Ctpurnell";
-  const pic = "/public/assets/IMG_0112.png"
+  
   return (
     <div className="container">
       <h1>{title}</h1>
@@ -14,7 +15,7 @@ function App() {
           alt="picture of my face"
         />
       </div>
-      <p>{"Welcome to my profile page"}</p>
+      <h2>{"Welcome to my profile page. Yes all are welcome!"}</h2>
 
       <a href={link}>My GitHub Profile</a>
     </div>
