@@ -1,23 +1,23 @@
-import "./App.css";
-import pic from "../src/IMG_0112.png";
+import Navbar from './components/Navbar';
+import AboutMe from './components/AboutMe';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+
+
+
+
 
 function App() {
-  const title = "Christopher Purnell";
-  const link = "https://github.com/Ctpurnell";
   
   return (
-    <div className="container">
-      <h1>{title}</h1>
-      <div>  
-        <img
-          style={{ width: "160px", height: "160px", borderRadius: "80px" }}
-          src={pic}
-          alt="picture of my face"
-        />
-      </div>
 
-      <a href={link}>My GitHub Profile</a>
-    </div>
+<div>
+<Navbar />
+<AboutMe />
+<Portfolio />
+<Contact />
+
+</div>
   );
 }
 
