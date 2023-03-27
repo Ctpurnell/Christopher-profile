@@ -1,10 +1,40 @@
-:root {
-  --outer-space: #33393f;
-  --bright-turquoise: #2aefcb;
-  --gin: #e0eae4;
-  --heliotrope: #e866ec;
-}
 
 .lazy-dater {
   background-image: url('./components/images/screenshot-lazy-dater.png') !important;
+  max-width: 700px;
+  height: auto;
+  margin: 10px;
+  padding: 80px
+
 }
+
+.cartoonify {
+  background-image: url('./components/images/loginpage.png') !important;
+  max-width: 700px;
+  height: auto;
+  margin: 10px;
+  padding: 80px
+
+}
+
+.jate-thing {
+  background-image: url('./components/images/JATE.png') !important;
+  color:white;
+  max-width: 700px;
+  height: auto;
+  margin: 10px;
+  padding: 80px
+
+}
+
+.employee-track {
+  background-image: url('./components/images/MySql.png') !important;
+  color:rgb(247, 249, 248);
+  max-width: 700px;
+  height: auto;
+  margin: 10px;
+  padding: 80px
+
+}
+
+
