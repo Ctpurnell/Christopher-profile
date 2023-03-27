@@ -3,6 +3,7 @@
 }
 
 .centered {
+  color:white;
   display: inline-block;
   text-align: center;
 }
@@ -19,6 +20,8 @@
 
 .lazy-dater {
   background-image: url('./components/images/screenshot-lazy-dater.png') !important;
+  background-size: cover;
+  background-position: center;
   max-width: 700px;
   height: auto;
   margin: 10px;
@@ -28,6 +31,8 @@
 
 .cartoonify {
   background-image: url('./components/images/loginpage.png') !important;
+  background-size: cover;
+  background-position: center;
   max-width: 700px;
   height: auto;
   margin: 10px;
@@ -37,6 +42,8 @@
 
 .jate-thing {
   background-image: url('./components/images/JATE.png') !important;
+  background-size: cover;
+  background-position: center;
   color:white;
   max-width: 700px;
   height: auto;
@@ -47,6 +54,8 @@
 
 .employee-track {
   background-image: url('./components/images/MySql.png') !important;
+  background-size: cover;
+  background-position: center;
   color:rgb(247, 249, 248);
   max-width: 700px;
   height: auto;
