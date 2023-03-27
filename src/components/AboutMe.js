@@ -10,5 +10,8 @@ export default function AboutMe() {
     </div>
             Hello World! My name is Chris, and I am very excited to be joining the Computer Industry.
         </div>
+        
+
+
     )
 } 

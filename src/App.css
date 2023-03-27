@@ -4,3 +4,7 @@
   --gin: #e0eae4;
   --heliotrope: #e866ec;
 }
+
+.lazy-dater {
+  background-image: url('./components/images/screenshot-lazy-dater.png') !important;
+}

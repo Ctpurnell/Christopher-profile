@@ -1,10 +1,11 @@
+
 export default function Portfolio () {
 
 // document.querySelector(".work-section").style="display: none"
     return (
 <div className="row work-section">
   <div className="col-sm-6 mb-3 mb-sm-0">
-    <div className="card">
+    <div className="card lazy-dater">
       <div className="card-body">
         <h5 className="card-title"> The Lazy Dater</h5>
         <p className="card-text">This was the first group project I did, and I must say it is my favorite.</p>
