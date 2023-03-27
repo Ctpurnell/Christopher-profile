@@ -1,3 +1,21 @@
+.footer {
+  text-align: center;
+}
+
+.centered {
+  display: inline-block;
+  text-align: center;
+}
+
+.my-info {
+  display:flex;
+  justify-content: space-around;
+  background-color:darkgrey;
+  height: 300px;
+  margin: 10px;
+  padding: 80px;
+  
+}
 
 .lazy-dater {
   background-image: url('./components/images/screenshot-lazy-dater.png') !important;

@@ -3,20 +3,16 @@
 export default function Footer() {
 
     return (
-        <footer>
+        
+        <footer className="footer">
             <div>
-              <a href="https://github.com"><i className="fab fa-github"></i>GitHub</a>
+              <a className="centered" href="https://github.com"><i className="fab fa-github"></i>GitHub</a>
             </div>
 
             <div>
-              <a href="https://www.facebook.com"><i className="fab fa-facebook"></i>Facebook</a>
+              <a className="centered" href="https://www.facebook.com"><i className="fab fa-facebook"></i>Facebook</a>
             </div>
-              
-      
-  
-  
-    
-</footer>
+        </footer>
 
     )
 }
