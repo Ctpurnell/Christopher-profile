@@ -1,7 +1,7 @@
 
 export default function Portfolio () {
 
-// document.querySelector(".work-section").style="display: none"
+
     return (
 <div className="row work-section">
   <div className="col-sm-6 mb-3 mb-sm-0">
