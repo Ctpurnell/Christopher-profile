@@ -20,7 +20,7 @@ This Assignment can be opened in VS Code by running `npm start`
 
 The application has been deployed at gitHub pages at:
 
-
+https://ctpurnell.github.io/Christopher-profile/
 
 Likewise, you can view the repository on gitHub at :
 
