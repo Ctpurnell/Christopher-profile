@@ -6,9 +6,9 @@ const title = "Christopher Purnell";
 export default function Header({ handlePageChange}) {
   return (
 <header className="bg-success text-white">
-  <nav className="navbar navbar-expand-lg border border-secondary bg-gray">
-    <div className="container">
-      <h1>{title}
+  <nav className="navbar">
+    
+      <h1 className="title align-self-center">{title}
       </h1>
         <div className="container-fluid d-flex justify-content-end">
           <a id="AboutMe-btn" className="nav-link fs-3 m-3" onClick={() => handlePageChange('About-Me')} aria-current="page" href="#About-Me">
@@ -24,7 +24,7 @@ export default function Header({ handlePageChange}) {
               Resume
               </a>
         </div>
-    </div>
+    
   </nav>
 </header>
     
