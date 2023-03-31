@@ -18,6 +18,16 @@ And be deployed to GitHub Pages.
 
 This Assignment can be opened in VS Code by running `npm start`
 
+## Images
+
+The following images show the app and its various pages, as well as showing it being responsive.
+![the home page](/src/components/images/Screenshot%20(84).png)
+![portfolio](/src/components/images/Screenshot%20(85).png)
+![contact](/src/components/images/Screenshot%20(86).png)
+![resume](/src/components/images/Screenshot%20(87).png)
+![responsive](/src/components/images/Screenshot%20(88).png)
+
+
 The application has been deployed at gitHub pages at:
 
 https://ctpurnell.github.io/Christopher-profile/
