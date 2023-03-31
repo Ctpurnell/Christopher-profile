@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Christopher-profile/static/css/main.d67ba194.css",
-    "main.js": "/Christopher-profile/static/js/main.bf42ea5d.js",
+    "main.css": "/Christopher-profile/static/css/main.33a0742f.css",
+    "main.js": "/Christopher-profile/static/js/main.06e9081c.js",
     "static/media/IMG_0112.png": "/Christopher-profile/static/media/IMG_0112.bde2b5faddb24ee17402.png",
     "static/media/loginpage.png": "/Christopher-profile/static/media/loginpage.d15fad59b627dfecd732.png",
     "static/media/screenshot-lazy-dater.png": "/Christopher-profile/static/media/screenshot-lazy-dater.067576496690436dedd2.png",
     "static/media/MySql.png": "/Christopher-profile/static/media/MySql.2b72bcb337f2f3619554.png",
     "static/media/JATE.png": "/Christopher-profile/static/media/JATE.267210466c56060bba4a.png",
     "index.html": "/Christopher-profile/index.html",
-    "main.d67ba194.css.map": "/Christopher-profile/static/css/main.d67ba194.css.map",
-    "main.bf42ea5d.js.map": "/Christopher-profile/static/js/main.bf42ea5d.js.map"
+    "main.33a0742f.css.map": "/Christopher-profile/static/css/main.33a0742f.css.map",
+    "main.06e9081c.js.map": "/Christopher-profile/static/js/main.06e9081c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d67ba194.css",
-    "static/js/main.bf42ea5d.js"
+    "static/css/main.33a0742f.css",
+    "static/js/main.06e9081c.js"
   ]
 }
