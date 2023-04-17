@@ -64,3 +64,14 @@
 
 }
 
+.quizzinator {
+  background-image: url('./components/images/logo8.PNG') !important;
+  background-size: cover;
+  background-position: center;
+  color:rgb(247, 249, 248);
+  max-width: 700px;
+  height: auto;
+  margin: 10px;
+  padding: 80px
+}
+

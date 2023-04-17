@@ -40,7 +40,19 @@ export default function Portfolio () {
       </div>
     </div>
   </div>
+  <div className="col-sm-6 mb-3 mb-sm-0">
+    <div className="card quizzinator">
+      <div className="card-body">
+        <h2 className="card-title">Quizzinator</h2>
+        <p className="card-text">React app using a full M.E.R.N. stack</p>
+        <a href="https://quizzinator.herokuapp.com/" className="btn btn-success">Check it Out!</a>
+      </div>
+    </div>
+  </div>
 </div>
+
+
+
 
     );
 }
